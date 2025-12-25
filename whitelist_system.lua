@@ -1,8 +1,6 @@
-{
-  "users": [
-    {"username": "Player1", "userId": 12345678},
-    {"username": "Player2", "userId": 87654321},
-    {"username": "YNU\\_PQD"},
-    {"username": "Markyy\\_0311", "userId": 11111111}
-  ]
+return {
+    {username = "YNU_PQD", userid = 12345678},
+    {username = "Markyy_0311", userid = 87654321},
+    "Player3", -- username only format
+    11111111, -- userId only format
 }
